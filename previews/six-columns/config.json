@@ -1,0 +1,14 @@
+{
+  "columns": 6,
+  "rows_below_dock": 1,
+  "background_color": "#000000",
+  "wallpaper": false,
+  "dock_apps": [
+    "com.netflix.ninja",
+    "com.google.android.youtube.tv",
+    "com.google.android.youtube.tvmusic",
+    "com.flextv.livestore"
+  ],
+  "live_tv_package": "",
+  "greeting_name": "Annu & Ritchie"
+}

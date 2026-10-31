@@ -1,0 +1,28 @@
+{
+  "dock_apps": [
+    "com.netflix.ninja",
+    "com.google.android.youtube.tv",
+    "com.google.android.youtube.tvmusic",
+    "com.flextv.livestore"
+  ],
+  "background_color": "#090C14",
+  "wallpaper": true,
+  "cinematic_home": true,
+  "dock_glass": true,
+  "icon_only_buttons": true,
+  "app_glow": true,
+  "glow_style": "horizon",
+  "focus_overshoot": false,
+  "advanced_effects": true,
+  "live_tv_package": "",
+  "greeting_name": "Annu & Ritchie",
+  "top_bar_apps": [
+    "tv.profilesbutton",
+    "tv.lockbutton"
+  ],
+  "app_keys": [
+    "KEYCODE_HOME:home",
+    "hold:KEYCODE_HOME:tv.lockbutton"
+  ],
+  "restore_key_services": true
+}

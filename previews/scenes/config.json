@@ -1,0 +1,12 @@
+{
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 60,
+  "dock_apps": [
+    "com.netflix.ninja",
+    "com.google.android.youtube.tv",
+    "com.google.android.youtube.tvmusic",
+    "com.flextv.livestore"
+  ],
+  "live_tv_package": "",
+  "greeting_name": "Annu & Ritchie"
+}

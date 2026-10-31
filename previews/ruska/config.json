@@ -1,0 +1,16 @@
+{
+  "background_color": "#07080D",
+  "wallpaper": true,
+  "ambient_glow": false,
+  "dock_opacity": 70,
+  "app_glow": true,
+  "focus_overshoot": false,
+  "dock_apps": [
+    "com.netflix.ninja",
+    "com.google.android.youtube.tv",
+    "com.google.android.youtube.tvmusic",
+    "com.flextv.livestore"
+  ],
+  "live_tv_package": "",
+  "greeting_name": "Annu & Ritchie"
+}
